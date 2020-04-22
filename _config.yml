@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Dope Girls 
 description: Check out this new tight site. 
 
-[a relative link](yo.md)
+permalink: /sample-site/yo/
+[a relative link](sample-site/yo.md)
