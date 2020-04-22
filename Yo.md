@@ -1,6 +1,6 @@
 # Yo welcome to my page.
 
-Get ready this page will  blow you away.
+Get ready this page will  blow you away. :metal:
 
 ## Who we are
 
