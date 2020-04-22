@@ -1,5 +1,7 @@
 ## Welcome to Dope Girls Making Web
 
+what is this magic?
+
 Can I make a freaking page link? [Yo](https://github.com/elizabethstilwell/sample-site/yo.md)
 
 You can use the [editor on GitHub](https://github.com/elizabethstilwell/sample-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
