@@ -1,4 +1,4 @@
-## Welcome my GitHub Page!
+## Welcome to Dope Girls Making Web
 
 You can use the [editor on GitHub](https://github.com/elizabethstilwell/sample-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
